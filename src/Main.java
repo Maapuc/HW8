@@ -51,7 +51,7 @@ public class Main {
             if (one[i] % 2 != 0) {
                 one[i]++;
             }
-            System.out.print(Arrays.toString(one));
         }
+        System.out.print(Arrays.toString(one));
     }
 }
